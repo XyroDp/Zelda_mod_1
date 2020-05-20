@@ -1,0 +1,8 @@
+#English US file for Zelda's Essential
+
+#Creative Tab
+itemGroup.tab_test="Zelda tab"
+
+#Items
+item.tutorial_item.name="tutorial item"
+item.master_sword.name="THE GODDAMN FUCKING MASTER SWORD"

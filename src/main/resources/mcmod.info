@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zeldamod1",
+  "name": "Xyro's Zelda misc",
+  "description": "A mod created essentially for my zelda map, it contains every item ands blocs from zelda.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["XYRODP"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
