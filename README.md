@@ -22,6 +22,7 @@ Blocks :
 - buche fendue : lorsque l'on click droit avec la master sword cela détruit l'arbre, et place dans la direction de la fente de la buche des buches qui tombent (comme un block de sable) -> un escalier au milieu de l'arbre
 - Chou péteur : lorsque l'on click droit dessus, on recupère en main une bombe allumée, et le block disparaît le temps qu'elle explose. -> un melon
 - Corde : Une simple corde à laquelle on peut se balancer -> des cobwebs
+- Grosse caisse : idem caisse mais portable seulement avec les bracelets de forces.
 - Statue endormie : lorsqu'on joue de la musique, elle s'allume et copie nos déplacements -> dispenseur sur un escalier
 - Statue Sheïkah : lorsqu'on joue de la musique, elle nous affichent un texte pré-disposé (dévoilent un indice sur l'énigme) -> dispenseur avec un panneau
 - bloc fantôme : lorsqu'éclairé, il devient perméable et translucide. -> block de purpur
@@ -32,7 +33,15 @@ Blocks :
 
 - negative sticky piston : comme des sticky piston, mais inversé (lorsqu'ils sont alimentés, ils se retractent). -> sticky piston avec une carpet rouge ou bleu, et inversement pour le véritable
 - Target block : La map étant en 1.10.2... on ne l'a pas encore -> une item frame avec un block d'or au milieu
-- levier de grappin : activable uniquement par le grappin si l'on a les gants de force.
-- Chronolythe : lorsqu'allumé, génère un courant de redstone, et modifie le terrain autour d'elle (sable mouvant devient dirt et des structures peuvent apparaître (via le structure block)).
-- éolienne : envoie un courant de redstone si elle reçoit une boule d'air
+- levier de grappin : activable uniquement par le grappin si l'on a les gants de force. -> block d'or avec une porte-barriere devant, comme un piston
+- Chronolythe : lorsqu'allumé, génère un courant de redstone, et modifie le terrain autour d'elle (sable mouvant devient dirt et des structures peuvent apparaître (via le structure block)). -> beacon
+- éolienne : envoie un courant de redstone si elle reçoit une boule d'air -> trapdoor ouverte
 
+
+Quelques restrictions au niveau du joueur :
+- Link ne pouvant pas sauter normalement, le joueur ne saute que sur une distance 3 block max
+- le joueur aura les elytras
+- lorsque le joueur subit des dégats de chute, il est retéléporté à sa position avant sa chute, idem si il tombe dans l'eau sans écaille, ou dans la lave
+
+
+Merci !
