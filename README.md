@@ -18,8 +18,8 @@ Items :
 Blocks :
 - Marqueur de Fy : block invisible/perméable qui, lorsqu'on le vise grâce à la Visée, ouvre un GUI et nous affiche un texte préconfiguré au placement du block. (pour simuler le sidekick)
 - *bloc fragile : est détruisible à la bombe. -> andesite
-- caisse : bloc que l'on peut prendre, et ensuite poser devant soi (directement devant ou un bloc plus loin) -> dark prismarine taillé
-- buche fendue : lorsque l'on click droit avec la master sword cela détruit l'arbre, et place dans la direction de la fente de la buche des buches qui tombent (comme un block de sable) -> un escalier au milieu de l'arbre
+- caisse : bloc que l'on peut pousser, et continue de glisser si il est sur de la glace (directement devant ou un bloc plus loin) -> dark prismarine taillé
+- *buche fendue : lorsque l'on click droit avec la master sword cela détruit l'arbre, et place dans la direction de la fente de la buche des buches qui tombent (comme un block de sable) -> un escalier au milieu de l'arbre
 - Chou péteur : lorsque l'on click droit dessus, on recupère en main une bombe allumée, et le block disparaît le temps qu'elle explose. -> un melon
 - Corde : Une simple corde à laquelle on peut se balancer -> des cobwebs
 - Grosse caisse : idem caisse mais portable seulement avec les bracelets de forces.
